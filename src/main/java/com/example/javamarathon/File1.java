@@ -2,7 +2,7 @@ package com.example.javamarathon;
 
 import java.util.Scanner;
 
-public class file1 {
+public class File1 {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         int x = 10;
@@ -19,6 +19,15 @@ public class file1 {
 
         String name = inp.nextLine();
         System.out.println("Hello " + name);
+
+        for (int i=0; i<10;i++ ){
+            if (i%2 ==0){
+                System.out.println(i);
+            }
+            else {
+                System.out.println("ODD");
+            }
+        }
 
 
 
