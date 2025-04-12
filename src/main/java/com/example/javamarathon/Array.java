@@ -7,6 +7,8 @@ public class Array {
 
         for (String var : cars){
             System.out.println(var);
+
         }
+        //Array list
     }
 }
