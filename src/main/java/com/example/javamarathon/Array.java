@@ -12,8 +12,12 @@ public class Array {
         //Array list
         ArrayList<String> cars2 = new ArrayList<>();
         cars2.add("Tesla");
+        cars2.add("BMW");
+        cars2.add("Ford");
+        cars2.add("Mazda");
         System.out.println(cars2);
         System.out.println(cars2.get(0));
+
 
     }
 }
