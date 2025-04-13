@@ -18,6 +18,7 @@ public class Array {
         cars2.add("Toyota");
         System.out.println(cars2);
         System.out.println(cars2.get(0));
+        System.out.println(cars2.get(1));
 
 
     }
