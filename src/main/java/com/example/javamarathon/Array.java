@@ -10,5 +10,10 @@ public class Array {
 
         }
         //Array list
+        ArrayList<String> cars2 = new ArrayList<>();
+        cars2.add("Tesla");
+        System.out.println(cars2);
+        System.out.println(cars2.get(0));
+
     }
 }
