@@ -19,6 +19,7 @@ public class Array {
         System.out.println(cars2);
         System.out.println(cars2.get(0));
         System.out.println(cars2.get(1));
+        System.out.println(cars2.get(2));
 
 
     }
