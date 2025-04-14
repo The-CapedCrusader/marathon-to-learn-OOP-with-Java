@@ -22,6 +22,10 @@ public class Array {
         System.out.println(cars2.get(2));
         System.out.println(cars2.get(3));
         System.out.println(cars2.get(4));
+        ArrayList<String> Company = new ArrayList<>();
+        Company.add("Google");
+        Company.remove("Google");
+        System.out.println(Company);
 
 
     }
