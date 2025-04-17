@@ -6,6 +6,11 @@ public class callingAMethod {
 
         System.out.println(s);
 
+        Practice p = new Practice();
+        p.PrintValue();
+        System.out.println(p.y);
+
+
 
 
     }
